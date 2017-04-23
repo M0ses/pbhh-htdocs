@@ -32,7 +32,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="?link=start">Hermann Herzog</a>
+            <a class="navbar-brand" href="start.html">Hermann Herzog</a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -40,14 +40,14 @@
 	      <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Leistungen<span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                  <li><a href="?link=brandschutz">Brandschutzplanung</a></li>
-                  <li><a href="?link=bauplanung">Bauplanung</a></li>
-                  <li><a href="?link=energieberatung">Energieberatung</a></li>
+                  <li><a href="brandschutz.html">Brandschutzplanung</a></li>
+                  <li><a href="bauplanung.html">Bauplanung</a></li>
+                  <li><a href="energieberatung.html">Energieberatung</a></li>
                 </ul>
               </li>
-              <li><a href="?link=qualifikationen">Qualifikationen</a></li>
-              <li><a href="?link=referenzen">Referenzen</a></li>
-              <li><a href="?link=kontakt">Kontakt</a></li>
+              <li><a href="qualifikationen.html">Qualifikationen</a></li>
+              <li><a href="referenzen.html">Referenzen</a></li>
+              <li><a href="kontakt.html">Kontakt</a></li>
             </ul>
         </div>
     </div>

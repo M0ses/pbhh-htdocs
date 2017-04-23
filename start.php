@@ -8,7 +8,7 @@ unsere Webseite befindet sich gerade im Aufbau.<br>
 In kürze erhalten Sie hier alle Informationen zum Planungsbüro Herzog.<br>
 <br>
 <br>
-In der Liste <a href="?link=referenzen">unserer Referenzen</a> können Sie sich schon mal einen Überblick über unsere Leistungen verschaffen.<br>
+In der Liste <a href="referenzen.html">unserer Referenzen</a> können Sie sich schon mal einen Überblick über unsere Leistungen verschaffen.<br>
 <br>
 <br>
 Hermann Herzog<br>
@@ -26,7 +26,7 @@ Zeichnen kann die Pläne jeder. Aber nur einer der sie versteht und mit ihnen ar
       Gerade bei der Brandschutzplanung gilt bei uns die Devise:
       <i>Zeichnen kann die Pläne jeder. Aber nur einer der sie versteht und mit ihnen arbeitet, macht diese Pläne zu etwas Besonderem...</i>
       </p>
-      <p><a href="?link=brandschutz" class="btn btn-primary">Mehr &raquo;</a></p>
+      <p><a href="brandschutz.html" class="btn btn-primary">Mehr &raquo;</a></p>
     </div>
     <div class="col-lg-4  col-md-4 teaser-red">
 
@@ -39,7 +39,7 @@ Zeichnen kann die Pläne jeder. Aber nur einer der sie versteht und mit ihnen ar
       Wir können Ihnen vom Eingabeplan über die Statik bis hin zur Energieberatung mit einem umfassenden Portfolio unter die Arme greifen.
       -->
       </p>
-      <p><a href="?link=bauplanung" class="btn btn-primary">Mehr &raquo;</a></p>
+      <p><a href="bauplanung.html" class="btn btn-primary">Mehr &raquo;</a></p>
     </div>
     <div class="col-lg-4 col-md-4 teaser-red">
       <h3>Energieberatung</h3>
@@ -49,6 +49,6 @@ Zeichnen kann die Pläne jeder. Aber nur einer der sie versteht und mit ihnen ar
 	<!-- Durch eine fundierte Ausbildung und kontinuierliche Fortbildungsmaßnahmen können wir eine Energieberatung auf Basis der neuesten technischen Standards sicherstellen.-->
 	Durch eine fundierte Ausbildung und kontinuierliche Fortbildungsmaßnahmen können wir Energieberatung auf Basis der neuesten technischen Standards sicherstellen.
       </p>
-      <p><a href="?link=energieberatung" class="btn btn-primary">Mehr &raquo;</a></p>
+      <p><a href="energieberatung.html" class="btn btn-primary">Mehr &raquo;</a></p>
      </div>
   </div>

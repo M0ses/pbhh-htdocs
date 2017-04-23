@@ -66,7 +66,7 @@ Mit folgenden Leistungen können wir Sie bei der Realisierung Ihres Projektes un
       <div class="panel panel-default">
 	<div class="panel-heading">
 	    <h4 class="panel-title">
-		<a href="?link=energieberatung">Energieberatung</a>
+		<a href="energieberatung.html">Energieberatung</a>
 	    </h4>
 	</div>
 <!--
@@ -78,5 +78,5 @@ Mit folgenden Leistungen können wir Sie bei der Realisierung Ihres Projektes un
       </div>
     </div>
   </div>
-  <a href="?link=start" class="btn btn-primary">Zurück &raquo;</a>
+  <a href="start.html" class="btn btn-primary">Zurück &raquo;</a>
 </div>

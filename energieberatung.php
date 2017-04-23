@@ -70,4 +70,4 @@ Ausstellung, Verwendung, Grundsätze und Grundlagen der Energieausweise werden i
 </div>
 
 
-<a href="?link=start" class="btn btn-primary">Zurück &raquo;</a>
+<a href="start.html" class="btn btn-primary">Zurück &raquo;</a>
