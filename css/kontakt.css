@@ -2,3 +2,30 @@ body {
   background: url(../img/kontakt.jpg);
   background-size: 100% auto;
 }
+
+#contact {
+  padding-top:20px;
+  padding-bottom:20px;
+}
+
+@media only screen and (max-width: 991px) {
+  #phone_row, #mobil_row, #email_row {
+    padding-top: 10px;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  #phone_row, #mobil_row, #email_row {
+    padding-top: 10px;
+    font-size:1.5em;
+  }
+}
+
+#address_row {
+  padding-bottom: 20px;
+  font-size: 2em;
+}
+
+#phone_ico, #mobil_ico, #email_ico {
+  font-size: 2em;
+}
