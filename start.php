@@ -17,7 +17,7 @@ Hermann Herzog<br>
 -->
   <!--Row with two equal columns-->
   <div class="row">
-    <div class="col-lg-4">
+    <div class="col-lg-4 col-md-4">
       <h3>Brandschutzplanung</h3>
 <!--
 Zeichnen kann die Pläne jeder. Aber nur einer der sie versteht und mit ihnen arbeitet, macht diese Pläne zu etwas Besonderem...
@@ -28,7 +28,8 @@ Zeichnen kann die Pläne jeder. Aber nur einer der sie versteht und mit ihnen ar
       </p>
       <p><a href="?link=brandschutz" class="btn btn-primary">Mehr &raquo;</a></p>
     </div>
-    <div class="col-lg-4" style="border-left-style:solid;border-left-color:red;">
+    <div class="col-lg-4  col-md-4 teaser-red">
+
       <h3>Bauplanung</h3>
       <p>
       &quot;Planung aus einer Hand&quot; spart Bauherrn Kosten und Zeit.
@@ -40,7 +41,7 @@ Zeichnen kann die Pläne jeder. Aber nur einer der sie versteht und mit ihnen ar
       </p>
       <p><a href="?link=bauplanung" class="btn btn-primary">Mehr &raquo;</a></p>
     </div>
-    <div class="col-lg-4" style="border-left-style:solid;border-left-color:red;">
+    <div class="col-lg-4 col-md-4 teaser-red">
       <h3>Energieberatung</h3>
       <p>
 	<!-- Hier kommt eine Kurzbeschreibung zum Thema Energieberatung -->
