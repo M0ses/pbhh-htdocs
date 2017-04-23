@@ -1,0 +1,64 @@
+body {
+  padding-top: 50px;
+  margin-bottom: 50px;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  background-color: #f5f5f5;
+  padding-top: 10px;
+}
+
+.div-tab-even, .div-tab-odd {
+  padding: 5px;
+}
+
+.div-tab-odd {
+  background-color: #f5f5f5;
+}
+
+.portfolio-ul {
+  font-size: 1.2em;
+}
+
+#hh-content {
+  min-height: 100%;
+  background-color: white;
+padding-bottom: 15px;
+}
+#hh-header {
+background-color: white;
+padding-top: 15px;
+padding-bottom: 15px;
+font-family: Helvetica,Arial,sans-serif;
+}
+@media only screen and (max-width: 767px) {
+        #hh-logo-left {
+          width: 100%;
+        }
+}
+
+@media only screen and (min-width: 768px) {
+        #hh-logo-left {
+          max-height: 120px;
+        }
+}
+
+@media only screen and (min-width: 992px) {
+        #hh-logo-left {
+          max-height: 150px;
+        }
+}
+
+@media screen and (min-width: 1200px) {
+	#hh-logo-left {
+	  max-height: 190px;
+	}
+	#hh-logo-right {
+	  max-height: 190px;
+	}
+}
+
