@@ -26,4 +26,4 @@
       <div class="col-xs-8" id=email_addr>planungsbuero.herzog@gmail.com</div>
       <div class="col-xs-2" id=email_ico><a href="mailto:planungsbuero.herzog@gmail.com"><span class="glyphicon glyphicon-envelope pull-right"></span></a></div>
     </div>
-<div>
+</div>
