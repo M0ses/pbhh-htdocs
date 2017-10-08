@@ -15,6 +15,9 @@
         else
 	  $ln = 'start';
 
+        if ($ln === "index")
+	  $ln = 'start';
+
 	$fn = "./css/$ln.css";
 	if (file_exists($fn) ) {
           echo "<link rel=\"stylesheet\" href=\"$fn\">\n";
