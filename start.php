@@ -24,7 +24,9 @@ Zeichnen kann die Pläne jeder. Aber nur einer der sie versteht und mit ihnen ar
 -->
       <p>
       Gerade bei der Brandschutzplanung gilt bei uns die Devise:
+      <!--
       <i>Zeichnen kann die Pläne jeder. Aber nur einer der sie versteht und mit ihnen arbeitet, macht diese Pläne zu etwas Besonderem...</i>
+      -->
       </p>
       <p><a href="brandschutz.html" class="btn btn-primary">Mehr &raquo;</a></p>
     </div>

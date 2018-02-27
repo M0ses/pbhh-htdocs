@@ -1,7 +1,9 @@
 <div class="page-header"><h2>Brandschutzplanung und -beratung</h2></div>
 <div class=jumbotron>
 Im Feuerwehr-Planungsbereich ist unser großer Pluspunkt:<br>
+<!--
 <i>Zeichnen kann die Pläne jeder. Aber nur einer der sie versteht und mit ihnen arbeitet, macht diese Pläne zu etwas Besonderem</i><br>
+-->
 <br>
 Dies wird von <a href="referenzen.html">unseren zahlreichen Kunden</a> sehr geschätzt, somit reicht die Palette der bisher bearbeiteten Projekte inzwischen vom einfachen Mehrfamilienhaus und Wohnanlagen über Kindergärten, Altenheime, Kliniken bis hin zu mittelständischen Industriebetrieben.<br>
 </div>
